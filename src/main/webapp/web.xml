@@ -108,7 +108,7 @@
 
     <servlet>
         <servlet-name>loginController</servlet-name>
-        <servlet-class>taxi.controller.driver.LoginController</servlet-class>
+        <servlet-class>taxi.controller.LoginController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>loginController</servlet-name>
