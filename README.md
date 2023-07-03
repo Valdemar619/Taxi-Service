@@ -1,4 +1,4 @@
-# Taxi-Service <img src="https://cdn-0.emojis.wiki/emoji-pics/apple/oncoming-taxi-apple.png" width="50" height="50">
+# <img src="https://cdn-0.emojis.wiki/emoji-pics/apple/oncoming-taxi-apple.png" width="50" height="50"> Taxi-Service <img src="https://cdn-0.emojis.wiki/emoji-pics/apple/oncoming-taxi-apple.png" width="50" height="50">
 This is web application to show simple CRUD operations, authentication, and registration using MySQL and servlets, without any frameworks.
 
 Functionality
